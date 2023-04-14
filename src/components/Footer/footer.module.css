@@ -1,0 +1,30 @@
+footer{
+    width: 1300px;
+    margin: 0 auto;
+    margin-top: 100px;
+    padding-top: 22px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btns_header{
+    display: flex;
+    gap: 31px;
+}
+nav{
+    display: flex;
+    gap: 30px;
+}
+.navlink{
+    color: rgb(41, 41, 41);
+    text-decoration: none;
+    transition: 0.3s;
+    font-weight: 550;
+}
+.navlink:hover{
+    color: #FF2D2D;
+}
+
+.class{
+    color: green;
+}
